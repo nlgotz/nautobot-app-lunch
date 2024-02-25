@@ -1,0 +1,26 @@
+{
+    "cookiecutter": {
+        "codeowner_github_usernames": "nlgotz",
+        "full_name": "Nate Gotz",
+        "email": "nathan.gotz@gmail.com",
+        "github_org": "nlgotz",
+        "app_name": "nautobot_lunch",
+        "verbose_name": "Nautobot Lunch",
+        "app_slug": "lunch",
+        "project_slug": "nautobot-app-lunch",
+        "repo_url": "https://github.com/nlgotz/nautobot-app-lunch",
+        "base_url": "lunch",
+        "min_nautobot_version": "2.0.0",
+        "max_nautobot_version": "2.9999",
+        "camel_name": "Lunch",
+        "project_short_description": "Nautobot Lunch",
+        "model_class_name": "None",
+        "open_source_license": "Apache-2.0",
+        "docs_base_url": "https://nautobot-lunch.readthedocs.io",
+        "docs_app_url": "https://nautobot-lunch.readthedocs.io/projects/lunch/en/latest",
+        "_template": "https://github.com/nautobot/cookiecutter-nautobot-app",
+        "_output_dir": "/home/nathan/Projects",
+        "_repo_dir": "/home/nathan/.cookiecutters/cookiecutter-nautobot-app/nautobot-app",
+        "_checkout": null
+    }
+}
